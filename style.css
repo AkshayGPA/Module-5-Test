@@ -1,0 +1,219 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    display: inline-block;
+    float: left;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin: 29px 38px;
+}
+
+nav{
+    width: 100%;
+    /* height: 87px; */
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: right;
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 38px;
+}
+
+ul li a{
+    margin: 29px 0;
+    display: block;
+    float: left;
+    text-decoration: none;
+    color: white;
+}
+
+#home{
+    height: 1117px;
+    background: burlywood;
+    display: inline-block;
+    width: 100%;
+}
+
+#about{
+    height: 1230px;
+    background: rgb(233, 198, 198);
+    display: inline-block;
+    width: 100%;
+}
+
+#services{
+    height: 1030px;
+    background: rgb(255, 255, 255);
+    display: inline-block;
+    width: 100%;
+}
+
+#contact{
+    height: 1030px;
+    background: rgb(24, 23, 23);
+    display: inline-block;
+    width: 100%;
+}
+
+#landingPage{
+    margin-top: 142px;
+    margin-left: 96px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 200px;
+    font-weight: 700;
+    float: left;
+    line-height: 242.05px;
+}
+
+#mac{
+    height: 395px;
+    width: 734px;
+    float: right;
+    margin-top: 515px;
+}
+
+/* .container{ */
+    /* display: flex;
+    justify-content: space-between; */
+    /* align-items: center; */
+/* } */
+
+#stairs{
+    float: left;
+    height: 726px;
+    width: 572px;
+    margin-left: 89px;
+    margin-top: 236px;
+    margin-right: 86px;  
+}
+
+#heading2{
+    display: inline;
+    /* margin-top: 235px; */
+    margin-left: 747px;
+    float: right;
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+#services h1{
+    margin-left: 82px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.card{
+    margin-left: 82px;
+    margin-top: 53px;
+    height: 423px;
+    width: 599px;
+}
+.card2{
+    display: flex;
+    margin-left: 747px;
+    margin-top: 53px;
+    height: 423px;
+    width: 599px;
+}
+.card3{
+    margin-left: 82px;
+    margin-top: 53px;
+    height: 423px;
+    width: 599px;
+}
+
+#contact h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+    margin-top: 101px;
+    text-align: center;
+    color: white;
+}
+
+#fname{
+    margin-top: 57px;
+    margin-left: 140px;
+    width: 1372px;
+    height: 72px;
+    padding: 22px 13px;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    background: rgb(24, 23, 23);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+#lname{
+    margin-top: 35px;
+    margin-left: 140px;
+    width: 1372px;
+    height: 72px;
+    padding: 22px 13px;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    background: rgb(24, 23, 23);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+#email{
+    margin-top: 35px;
+    margin-left: 140px;
+    width: 1372px;
+    height: 72px;
+    padding: 22px 13px;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    background: rgb(24, 23, 23);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+#reason{
+    margin-top: 35px;
+    margin-left: 140px;
+    width: 1372px;
+    height: 72px;
+    padding: 22px 13px;
+    border-width: 1px;
+    border-color: #FFFFFF;
+    background: rgb(24, 23, 23);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+#submit{
+    margin-top: 35px;
+    margin-left: 140px;
+    width: 260.75px;
+    height: 50px;
+    background: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}

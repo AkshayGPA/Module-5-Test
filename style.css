@@ -226,6 +226,16 @@ ul li a{
     margin-top: 15px;
 }
 
+#linebr{
+    width: 1772px;
+    height: 10px;
+    color: black;
+    background-color: black;
+    margin-left: 89px;
+    margin-top: 100px;
+    border-radius: 8px;
+}
+
 #fname{
     margin-top: 57px;
     margin-left: 140px;
